@@ -9,3 +9,7 @@ I know all the chrome extension settings aren't configured right, but I'm just b
 ## Installing
 
 Drag and drop the crx file in chrome://extensions. Or build the extension yourself!
+
+## Running the extension
+
+Go to [outstanding invite page](https://www.linkedin.com/people/pymk/hub?ref=global-nav&trk=nav_utilities_invites_header) and press the extension button in the menu-bar. Now type ya invites!
